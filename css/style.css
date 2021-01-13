@@ -1,27 +1,28 @@
 body{
-font-family: 'Roboto', sans-serif;
-}
-
-.head-style{
-    font-family: 'Bebas Neue', cursive;
-}
-body{
-    padding: 0;
-    margin: 0;
-}
-.bg-mycolor{
-    background-color: #FFFBF0;
-}
-.btn-mycolor{
-    height: 80px;
-    width: 180px;
-    background-color: #A4BC46;
-    color: white;
-}
-.p-card{
-    border: none;
-}
-.p-card-footer{
-    border: none;
-    background-color: white;
-}
+    font-family: 'Roboto', sans-serif;
+    }
+    
+    .head-style{
+        font-family: 'Bebas Neue', cursive;
+    }
+    body{
+        padding: 0;
+        margin: 0;
+    }
+    .bg-mycolor{
+        background-color: #FFFBF0;
+    }
+    .btn-mycolor{
+        height: 80px;
+        width: 180px;
+        background-color: #A4BC46;
+        color: white;
+    }
+    .p-card{
+        border: none;
+    }
+    .p-card-footer{
+        border: none;
+        background-color: white;
+    }
+    
