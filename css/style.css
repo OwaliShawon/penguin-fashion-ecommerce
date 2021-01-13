@@ -5,3 +5,9 @@ body{
 .bg-mycolor{
     background-color: #FFFBF0;
 }
+.btn-mycolor{
+    height: 80px;
+    width: 180px;
+    background-color: #A4BC46;
+    color: white;
+}
