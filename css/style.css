@@ -47,4 +47,8 @@ body{
         border: none;
         background-color: white;
     }
-    
+    /* .down-row{
+        display: flex;
+        flex-direction: row-reverse;
+    }
+     */
