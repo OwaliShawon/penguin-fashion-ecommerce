@@ -13,13 +13,36 @@ body{
         background-color: #FFFBF0;
     }
     .btn-mycolor{
-        height: 80px;
-        width: 180px;
         background-color: #A4BC46;
         color: white;
+        height: 50px;
+        width: 110px;
+        border-radius: 5px;
+        border-color: #A4BC46;
+        float: right;
+
     }
+    .spcl-color{
+        color: #FABE4C;
+    }
+   
     .p-card{
         border: none;
+        border-radius: 20px;
+        padding-top: 5px;
+        width: 300px;
+        height: 200px;
+    }
+    .p-card img{
+        border: none;
+        height: 200px;
+        width: 200px;
+        background-color: #FFFFFF;
+        border-radius: 10px;
+        margin: 0 auto;
+        padding: 20px;
+        border-radius: 10px;
+
     }
     .p-card-footer{
         border: none;
