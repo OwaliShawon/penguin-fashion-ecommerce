@@ -19,7 +19,7 @@ body{
         width: 110px;
         border-radius: 5px;
         border-color: #A4BC46;
-        float: right;
+
 
     }
     .spcl-color{
@@ -29,20 +29,19 @@ body{
     .p-card{
         border: none;
         border-radius: 20px;
-        padding-top: 5px;
+        padding-top: 20px;
         width: 300px;
         height: 200px;
     }
     .p-card img{
         border: none;
-        height: 200px;
+        height: 220px;
         width: 200px;
-        background-color: #FFFFFF;
+        background-color: #F1F1F1;
         border-radius: 10px;
         margin: 0 auto;
-        padding: 20px;
+        padding: 10px;
         border-radius: 10px;
-
     }
     .p-card-footer{
         border: none;
